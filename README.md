@@ -1,2 +1,2 @@
 # Automated-and-Optimized-Health-Examination-Scheduling-at-Taipei-Veterans-General-Hospital
-Utilized integer programming and heuristic algorithms to assist one of Taiwan's leading hospital, Taipei Veterans General Hospital, in designing an optimization system for health checkup scheduling.
+Based on the requirements of hospital physicians and machinery, assisted one of Taiwan's leading hospital, Taipei Veterans General Hospital, in the design of an optimization system for health checkup scheduling using integer programming and genetic algorithms. This resulted in an improved utilization rate of hospital machinery and increased revenue.
